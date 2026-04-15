@@ -16,3 +16,7 @@
 chmod +x cleanup.sh
 ./cleanup.sh
 ```
+## Dry-run (testing)
+```bash
+./cleanup.sh --dry-run
+```
